@@ -1,0 +1,2 @@
+key,value
+permission,"{""pUsers":false,"pRoutes":false,"pDashboard":false,"pFeedbacks":false,"pReviews":false,"pAddress":false,"pConfigurationDepartments":false,"pConfigurationWebpage":false,"pConfigurationLanguages":false,"pAccountsMembers":false,"pAccountsGroups":false,"pUserDevices":false}"
